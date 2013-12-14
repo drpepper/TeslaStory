@@ -58,7 +58,8 @@
     <object>objects\str_steam_line</object>
     <object>objects\spark</object>
     <object>objects\obj_angledroit</object>
-    <object>objects\warp_steamside</object>
+    <object>objects\warp_left</object>
+    <object>objects\warp_right</object>
     <object>objects\warp_intermediate</object>
     <object>objects\obj_anglegauche</object>
     <object>objects\obj_anglehaut</object>
