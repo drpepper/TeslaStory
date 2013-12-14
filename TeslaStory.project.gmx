@@ -21,6 +21,8 @@
     <sprite>sprites\tesla_run</sprite>
     <sprite>sprites\spr_tesla_shoot</sprite>
     <sprite>sprites\spr_telsa_shoot_run</sprite>
+    <sprite>sprites\spr_tesla_jump_run</sprite>
+    <sprite>sprites\spr_tesla_jump</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
