@@ -23,6 +23,8 @@
     <sprite>sprites\spr_telsa_shoot_run</sprite>
     <sprite>sprites\spr_tesla_jump_run</sprite>
     <sprite>sprites\spr_tesla_jump</sprite>
+    <sprite>sprites\spr_steam_line</sprite>
+    <sprite>sprites\spr_steam_cloud</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -36,6 +38,8 @@
     <object>objects\enemy_fly</object>
     <object>objects\gui_barr</object>
     <object>objects\laser</object>
+    <object>objects\steam_cloud</object>
+    <object>objects\str_steam_line</object>
     <object>objects\spark</object>
     <object>objects\warp_steamside</object>
     <object>objects\warp_intermediate</object>
