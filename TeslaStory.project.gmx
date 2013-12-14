@@ -7,14 +7,16 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\spr_Tesla</sprite>
+    <sprite>sprites\spr_floor</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\Tesla</object>
+    <object>objects\obj_floor</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\room0</room>
+    <room>rooms\level</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
