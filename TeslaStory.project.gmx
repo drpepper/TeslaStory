@@ -8,6 +8,7 @@
   <sprites name="sprites">
     <sprite>sprites\spr_Tesla_idle</sprite>
     <sprite>sprites\spr_enemy_steam</sprite>
+    <sprite>sprites\spr_warp</sprite>
     <sprite>sprites\spr_floor</sprite>
     <sprite>sprites\tesla_heart</sprite>
     <sprite>sprites\spr_courant</sprite>
@@ -31,11 +32,13 @@
     <object>objects\gui_barr</object>
     <object>objects\laser</object>
     <object>objects\spark</object>
+    <object>objects\warp_steamside</object>
+    <object>objects\warp_intermediate</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\intermediateroom</room>
     <room>rooms\level</room>
     <room>rooms\room2</room>
-    <room>rooms\intermediateroom</room>
   </rooms>
   <constants number="10">
     <constant name="FIRING_DELAY">600</constant>
