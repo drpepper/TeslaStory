@@ -64,7 +64,9 @@
     <object>objects\obj_sansangle</object>
     <object>objects\tesla_static</object>
     <object>objects\portal</object>
+    <object>objects\intro_controller</object>
   </objects>
+  <timelines name="timelines"/>
   <rooms name="rooms">
     <room>rooms\intro</room>
     <room>rooms\intermediateroom</room>
