@@ -9,6 +9,7 @@
     <sprite>sprites\spr_Tesla_idle</sprite>
     <sprite>sprites\spr_floor</sprite>
     <sprite>sprites\spr_courant</sprite>
+    <sprite>sprites\spr_barr</sprite>
     <sprite>sprites\spr_element</sprite>
   </sprites>
   <backgrounds name="background"/>
@@ -18,6 +19,7 @@
     <object>objects\obj_floor</object>
     <object>objects\gui_courant</object>
     <object>objects\gui_element</object>
+    <object>objects\gui_barr</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\level</room>
