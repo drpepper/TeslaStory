@@ -19,6 +19,7 @@
     <object>objects\enemy_steam</object>
     <object>objects\obj_floor</object>
     <object>objects\gui_courant</object>
+    <object>objects\gui_element</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\level</room>
