@@ -15,6 +15,7 @@
     <sprite>sprites\spr_element</sprite>
     <sprite>sprites\srp_enemy_fly</sprite>
     <sprite>sprites\spr_projectile</sprite>
+    <sprite>sprites\spr_laser</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -27,14 +28,15 @@
     <object>objects\projectile</object>
     <object>objects\enemy_fly</object>
     <object>objects\gui_barr</object>
+    <object>objects\laser</object>
   </objects>
-  <timelines name="timelines"/>
   <rooms name="rooms">
     <room>rooms\level</room>
     <room>rooms\room2</room>
     <room>rooms\intermediateroom</room>
   </rooms>
-  <constants number="8">
+  <constants number="9">
+    <constant name="LASER_SPEED">30</constant>
     <constant name="FLYING_ENEMY_SPEED">2</constant>
     <constant name="PROJECTILE_SPEED">15</constant>
     <constant name="ENEMY_JUMP">-16</constant>
