@@ -9,6 +9,7 @@
     <sprite>sprites\spr_Tesla_idle</sprite>
     <sprite>sprites\spr_enemy_steam</sprite>
     <sprite>sprites\spr_floor</sprite>
+    <sprite>sprites\tesla_heart</sprite>
     <sprite>sprites\spr_courant</sprite>
     <sprite>sprites\spr_barr</sprite>
     <sprite>sprites\spr_element</sprite>
@@ -24,6 +25,7 @@
     <object>objects\gui_barr</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\intermediateroom</room>
     <room>rooms\level</room>
   </rooms>
   <constants number="6">
