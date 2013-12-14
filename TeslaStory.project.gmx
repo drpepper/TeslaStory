@@ -14,7 +14,6 @@
     <sprite>sprites\spr_courant</sprite>
     <sprite>sprites\spr_barr</sprite>
     <sprite>sprites\spr_element</sprite>
-    <sprite>sprites\srp_enemy_fly</sprite>
     <sprite>sprites\spr_projectile</sprite>
     <sprite>sprites\spr_laser</sprite>
     <sprite>sprites\spr_spark</sprite>
@@ -28,6 +27,9 @@
     <sprite>sprites\spr_enemy_steam_move</sprite>
     <sprite>sprites\spr_enemy_steam_charge</sprite>
     <sprite>sprites\spr_enemy_steam_fire</sprite>
+    <sprite>sprites\spr_enemy_fly_move</sprite>
+    <sprite>sprites\spr_enemy_fly_charge</sprite>
+    <sprite>sprites\spr_enemy_fly_fire</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
