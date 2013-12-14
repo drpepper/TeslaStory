@@ -30,14 +30,23 @@
     <sprite>sprites\spr_enemy_fly_move</sprite>
     <sprite>sprites\spr_enemy_fly_charge</sprite>
     <sprite>sprites\spr_enemy_fly_fire</sprite>
+    <sprite>sprites\angledroit</sprite>
+    <sprite>sprites\anglegauche</sprite>
+    <sprite>sprites\anglehaut</sprite>
+    <sprite>sprites\sansangle</sprite>
+    <sprite>sprites\spr_feu</sprite>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\mapsteam</background>
+  </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\Tesla</object>
+    <object>objects\Genrate_foe1</object>
     <object>objects\enemy_steam</object>
     <object>objects\obj_floor</object>
     <object>objects\gui_courant</object>
+    <object>objects\obj_feu</object>
     <object>objects\gui_element</object>
     <object>objects\projectile</object>
     <object>objects\enemy_steam_sky</object>
@@ -47,8 +56,12 @@
     <object>objects\steam_cloud</object>
     <object>objects\str_steam_line</object>
     <object>objects\spark</object>
+    <object>objects\obj_angledroit</object>
     <object>objects\warp_steamside</object>
     <object>objects\warp_intermediate</object>
+    <object>objects\obj_anglegauche</object>
+    <object>objects\obj_anglehaut</object>
+    <object>objects\obj_sansangle</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\intermediateroom</room>
