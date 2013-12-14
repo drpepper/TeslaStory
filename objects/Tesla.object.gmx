@@ -71,7 +71,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>3</string>
+            <string>GRAVITY</string>
           </argument>
         </arguments>
       </action>
@@ -177,7 +177,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>3</string>
+            <string>CONTACT_DIST</string>
           </argument>
           <argument>
             <kind>4</kind>
@@ -223,7 +223,7 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>3</string>
+            <string>SPEED</string>
           </argument>
           <argument>
             <kind>0</kind>
@@ -249,7 +249,7 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>-3</string>
+            <string>-SPEED</string>
           </argument>
           <argument>
             <kind>0</kind>
@@ -317,7 +317,7 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>-25</string>
+            <string>JUMP</string>
           </argument>
         </arguments>
       </action>
