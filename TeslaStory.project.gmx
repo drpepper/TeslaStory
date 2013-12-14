@@ -62,8 +62,11 @@
     <object>objects\obj_anglegauche</object>
     <object>objects\obj_anglehaut</object>
     <object>objects\obj_sansangle</object>
+    <object>objects\tesla_static</object>
+    <object>objects\portal</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\intro</room>
     <room>rooms\intermediateroom</room>
     <room>rooms\level</room>
     <room>rooms\room2</room>
