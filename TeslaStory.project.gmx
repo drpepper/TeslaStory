@@ -19,6 +19,7 @@
     <sprite>sprites\spr_laser</sprite>
     <sprite>sprites\spr_spark</sprite>
     <sprite>sprites\tesla_run</sprite>
+    <sprite>sprites\spr_tesla_shoot</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
