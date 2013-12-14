@@ -7,6 +7,7 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\spr_Tesla_idle</sprite>
+    <sprite>sprites\spr_enemy_steam</sprite>
     <sprite>sprites\spr_floor</sprite>
     <sprite>sprites\spr_courant</sprite>
     <sprite>sprites\spr_element</sprite>
@@ -15,13 +16,16 @@
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\Tesla</object>
+    <object>objects\enemy_steam</object>
     <object>objects\obj_floor</object>
     <object>objects\gui_courant</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\level</room>
   </rooms>
-  <constants number="4">
+  <constants number="6">
+    <constant name="ENEMY_JUMP">-16</constant>
+    <constant name="ENEMY_SPEED">5</constant>
     <constant name="SPEED">10</constant>
     <constant name="GRAVITY">3</constant>
     <constant name="JUMP">-16</constant>
