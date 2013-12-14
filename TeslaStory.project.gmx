@@ -35,6 +35,7 @@
     <sprite>sprites\anglehaut</sprite>
     <sprite>sprites\sansangle</sprite>
     <sprite>sprites\spr_feu</sprite>
+    <sprite>sprites\spr_generate</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\mapsteam</background>
@@ -66,7 +67,6 @@
     <object>objects\portal</object>
     <object>objects\intro_controller</object>
   </objects>
-  <timelines name="timelines"/>
   <rooms name="rooms">
     <room>rooms\intro</room>
     <room>rooms\intermediateroom</room>
