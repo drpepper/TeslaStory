@@ -8,12 +8,15 @@
   <sprites name="sprites">
     <sprite>sprites\spr_Tesla</sprite>
     <sprite>sprites\spr_floor</sprite>
+    <sprite>sprites\spr_courant</sprite>
+    <sprite>sprites\spr_element</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\Tesla</object>
     <object>objects\obj_floor</object>
+    <object>objects\gui_courant</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\level</room>
