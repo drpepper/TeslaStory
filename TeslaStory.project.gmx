@@ -11,6 +11,8 @@
     <sprite>sprites\spr_floor</sprite>
     <sprite>sprites\spr_courant</sprite>
     <sprite>sprites\spr_element</sprite>
+    <sprite>sprites\srp_enemy_fly</sprite>
+    <sprite>sprites\spr_projectile</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -20,11 +22,17 @@
     <object>objects\obj_floor</object>
     <object>objects\gui_courant</object>
     <object>objects\gui_element</object>
+    <object>objects\projectile</object>
+    <object>objects\enemy_fly</object>
   </objects>
+  <timelines name="timelines"/>
   <rooms name="rooms">
+    <room>rooms\room2</room>
     <room>rooms\level</room>
   </rooms>
-  <constants number="6">
+  <constants number="8">
+    <constant name="FLYING_ENEMY_SPEED">2</constant>
+    <constant name="PROJECTILE_SPEED">15</constant>
     <constant name="ENEMY_JUMP">-16</constant>
     <constant name="ENEMY_SPEED">5</constant>
     <constant name="SPEED">10</constant>
