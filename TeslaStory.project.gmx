@@ -45,7 +45,8 @@
     <room>rooms\level</room>
     <room>rooms\room2</room>
   </rooms>
-  <constants number="10">
+  <constants number="11">
+    <constant name="RECHARGE_TIME">150</constant>
     <constant name="FIRING_DELAY">600</constant>
     <constant name="LASER_SPEED">20</constant>
     <constant name="FLYING_ENEMY_SPEED">2</constant>
