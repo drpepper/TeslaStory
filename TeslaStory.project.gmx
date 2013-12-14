@@ -24,7 +24,7 @@
   <constants number="4">
     <constant name="SPEED">10</constant>
     <constant name="GRAVITY">3</constant>
-    <constant name="JUMP">-18</constant>
+    <constant name="JUMP">-16</constant>
     <constant name="CONTACT_DIST">10</constant>
   </constants>
   <help>
