@@ -47,6 +47,7 @@
     <background>background\mapvraisteam</background>
     <background>background\labo</background>
     <background>background\title</background>
+    <background>background\credits_background</background>
   </backgrounds>
   <paths name="paths"/>
   <fonts name="fonts">
@@ -97,11 +98,12 @@
     <object>objects\edison_zone_mouth</object>
     <object>objects\edison</object>
     <object>objects\edison_dead</object>
+    <object>objects\credits_controller</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\room7</room>
     <room>rooms\intro</room>
     <room>rooms\title_room</room>
-    <room>rooms\room7</room>
     <room>rooms\boss_room</room>
     <room>rooms\level1_electricite</room>
     <room>rooms\level1_steam</room>

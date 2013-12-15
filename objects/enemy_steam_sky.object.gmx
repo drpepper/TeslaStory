@@ -73,7 +73,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>health</string>
+            <string>enemy_health</string>
           </argument>
           <argument>
             <kind>0</kind>
