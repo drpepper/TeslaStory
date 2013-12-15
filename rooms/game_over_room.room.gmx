@@ -51,6 +51,7 @@
   </views>
   <instances>
     <instance objName="game_over_controller" x="576" y="0" name="inst_1C599390" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="gameover_text" x="192" y="384" name="inst_D0CFC1E4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
