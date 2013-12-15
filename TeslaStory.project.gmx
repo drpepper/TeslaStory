@@ -107,7 +107,6 @@
     <object>objects\credits_controller</object>
     <object>objects\game_over_controller</object>
   </objects>
-  <timelines name="timelines"/>
   <rooms name="rooms">
     <room>rooms\level1_electricite</room>
     <room>rooms\level2_electricite</room>
