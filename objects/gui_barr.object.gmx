@@ -4,7 +4,7 @@
   <solid>0</solid>
   <visible>-1</visible>
   <depth>0</depth>
-  <persistent>0</persistent>
+  <persistent>-1</persistent>
   <parentName>&lt;undefined&gt;</parentName>
   <maskName>&lt;undefined&gt;</maskName>
   <events>
@@ -30,58 +30,6 @@
         </arguments>
       </action>
     </event>
-    <event eventtype="5" enumb="39">
-      <action>
-        <libid>1</libid>
-        <id>109</id>
-        <kind>0</kind>
-        <userelative>-1</userelative>
-        <isquestion>0</isquestion>
-        <useapplyto>-1</useapplyto>
-        <exetype>1</exetype>
-        <functionname>action_move_to</functionname>
-        <codestring></codestring>
-        <whoName>self</whoName>
-        <relative>-1</relative>
-        <isnot>0</isnot>
-        <arguments>
-          <argument>
-            <kind>0</kind>
-            <string>-SPEED</string>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>0</string>
-          </argument>
-        </arguments>
-      </action>
-    </event>
-    <event eventtype="5" enumb="37">
-      <action>
-        <libid>1</libid>
-        <id>109</id>
-        <kind>0</kind>
-        <userelative>-1</userelative>
-        <isquestion>0</isquestion>
-        <useapplyto>-1</useapplyto>
-        <exetype>1</exetype>
-        <functionname>action_move_to</functionname>
-        <codestring></codestring>
-        <whoName>self</whoName>
-        <relative>-1</relative>
-        <isnot>0</isnot>
-        <arguments>
-          <argument>
-            <kind>0</kind>
-            <string>SPEED</string>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>0</string>
-          </argument>
-        </arguments>
-      </action>
-    </event>
     <event eventtype="8" enumb="64">
       <action>
         <libid>1</libid>
@@ -94,24 +42,24 @@
         <functionname>action_draw_health</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
-        <relative>-1</relative>
+        <relative>0</relative>
         <isnot>0</isnot>
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>183</string>
+            <string>view_xview[0]+x+183</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>20</string>
+            <string>view_yview[0]+y+60</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>305</string>
+            <string>view_xview[0]+x+305</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>30</string>
+            <string>view_yview[0]+y+70</string>
           </argument>
           <argument>
             <kind>4</kind>
@@ -134,16 +82,16 @@
         <functionname>action_draw_life_images</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
-        <relative>-1</relative>
+        <relative>0</relative>
         <isnot>0</isnot>
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>5</string>
+            <string>view_xview[0]+x+5</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>20</string>
+            <string>view_yview[0]+y+20</string>
           </argument>
           <argument>
             <kind>5</kind>

@@ -44,6 +44,7 @@
   </sprites>
   <backgrounds name="background">
     <background>background\mapsteam</background>
+    <background>background\mapvraisteam</background>
     <background>background\labo</background>
   </backgrounds>
   <paths name="paths"/>
@@ -76,6 +77,8 @@
     <object>objects\warp_intermediate</object>
     <object>objects\obj_anglegauche</object>
     <object>objects\obj_anglehaut</object>
+    <object>objects\Generateur_elec</object>
+    <object>objects\Generateur_stam</object>
     <object>objects\obj_sansangle</object>
     <object>objects\tesla_static</object>
     <object>objects\portal</object>
@@ -95,14 +98,15 @@
     <object>objects\edison_dead</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\level1_electricite</room>
+    <room>rooms\level1_steam</room>
     <room>rooms\boss_room</room>
     <room>rooms\intro</room>
     <room>rooms\title_room</room>
     <room>rooms\intermediateroom</room>
-    <room>rooms\level</room>
     <room>rooms\room2</room>
   </rooms>
-  <constants number="11">
+  <constants number="13">
     <constant name="RECHARGE_TIME">150</constant>
     <constant name="FIRING_DELAY">600</constant>
     <constant name="LASER_SPEED">20</constant>
@@ -114,6 +118,8 @@
     <constant name="GRAVITY">3</constant>
     <constant name="JUMP">-16</constant>
     <constant name="CONTACT_DIST">10</constant>
+    <constant name="Playerx">0</constant>
+    <constant name="Playery">0</constant>
   </constants>
   <help>
     <rtf>help.rtf</rtf>
