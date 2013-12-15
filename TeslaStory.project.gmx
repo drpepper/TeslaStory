@@ -4,7 +4,10 @@
     <Config>Configs\Default</Config>
   </Configs>
   <NewExtensions/>
-  <sounds name="sound"/>
+  <sounds name="sound">
+    <sound>sound\main_music</sound>
+    <sound>sound\final_music</sound>
+  </sounds>
   <sprites name="sprites">
     <sprite>sprites\spr_Tesla_idle</sprite>
     <sprite>sprites\generateurelec</sprite>
@@ -43,6 +46,7 @@
     <sprite>sprites\edison_eyes</sprite>
     <sprite>sprites\edison_breathe</sprite>
     <sprite>sprites\edison_dying</sprite>
+    <sprite>sprites\spr_pause</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\mapsteam</background>
@@ -102,6 +106,7 @@
     <object>objects\edison_text</object>
     <object>objects\end_text</object>
     <object>objects\start_text</object>
+    <object>objects\gameover_text</object>
     <object>objects\intro_explosion</object>
     <object>objects\title_controller</object>
     <object>objects\intro_controller</object>
@@ -113,8 +118,10 @@
     <object>objects\edison_dead</object>
     <object>objects\credits_controller</object>
     <object>objects\game_over_controller</object>
+    <object>objects\pause</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\intro</room>
     <room>rooms\level1_electricite</room>
     <room>rooms\level2_electricite</room>
     <room>rooms\level1_steam</room>
@@ -122,10 +129,9 @@
     <room>rooms\boss_room</room>
     <room>rooms\title_room</room>
     <room>rooms\intermediateroom</room>
-    <room>rooms\credits_room</room>
     <room>rooms\game_over_room</room>
+    <room>rooms\credits_room</room>
     <room>rooms\room2</room>
-    <room>rooms\intro</room>
   </rooms>
   <constants number="13">
     <constant name="RECHARGE_TIME">150</constant>
