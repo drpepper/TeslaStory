@@ -98,10 +98,10 @@
     <object>objects\edison_dead</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\intro</room>
+    <room>rooms\boss_room</room>
     <room>rooms\level1_electricite</room>
     <room>rooms\level1_steam</room>
-    <room>rooms\boss_room</room>
-    <room>rooms\intro</room>
     <room>rooms\title_room</room>
     <room>rooms\intermediateroom</room>
     <room>rooms\room2</room>
