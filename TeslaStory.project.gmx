@@ -7,6 +7,8 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\spr_Tesla_idle</sprite>
+    <sprite>sprites\generateurelec</sprite>
+    <sprite>sprites\generateursteam</sprite>
     <sprite>sprites\spr_enemy_old</sprite>
     <sprite>sprites\spr_warp</sprite>
     <sprite>sprites\spr_floor</sprite>
@@ -90,8 +92,13 @@
     <object>objects\obj_sansangle</object>
     <object>objects\tesla_static</object>
     <object>objects\portal</object>
+    <object>objects\Portal_intermediate</object>
+    <object>objects\Portal_steam2</object>
+    <object>objects\Portal_elec2</object>
     <object>objects\intro_text</object>
     <object>objects\title_text</object>
+    <object>objects\Generateursteam</object>
+    <object>objects\Generateurelec</object>
     <object>objects\edison_text</object>
     <object>objects\end_text</object>
     <object>objects\start_text</object>

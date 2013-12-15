@@ -53,7 +53,7 @@
     <instance objName="gui_courant" x="10" y="0" name="inst_7B8F1EEB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="gui_barr" x="150" y="0" name="inst_AC6A40B2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="gui_element" x="455" y="0" name="inst_BD10A6FE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Tesla" x="48" y="304" name="inst_CED24405" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Tesla" x="144" y="304" name="inst_CED24405" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_floor" x="0" y="384" name="inst_7437BFE4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_floor" x="32" y="384" name="inst_311B7429" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_floor" x="64" y="384" name="inst_E5BDC745" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -176,6 +176,7 @@
     <instance objName="Generateur_elec2" x="1568" y="288" name="inst_10168FA9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Generateur_elec2" x="1568" y="256" name="inst_A575B8C6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Genrate_foe1" x="576" y="304" name="inst_F93E11C7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Generateurelec" x="1536" y="256" name="inst_4DF63451" locked="0" code="" scaleX="1.64705884456635" scaleY="1.61538457870483" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

@@ -177,6 +177,9 @@
     <instance objName="Generateur_stam" x="1120" y="288" name="inst_37DA2DD8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Generate_foe2" x="352" y="176" name="inst_D2025483" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Genrate_foe1" x="1040" y="288" name="inst_BB387927" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Generateursteam" x="1088" y="256" name="inst_56697561" locked="0" code="" scaleX="1.64705884456635" scaleY="1.61538457870483" colour="4294967295" rotation="0"/>
+    <instance objName="Portal_intermediate" x="16" y="272" name="inst_39F6DCC3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Portal_steam2" x="1872" y="208" name="inst_7DCD136F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
