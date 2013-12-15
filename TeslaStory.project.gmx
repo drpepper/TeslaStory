@@ -36,11 +36,16 @@
     <sprite>sprites\sansangle</sprite>
     <sprite>sprites\spr_feu</sprite>
     <sprite>sprites\spr_generate</sprite>
+    <sprite>sprites\spr_edison_idle</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\mapsteam</background>
+    <background>background\labo</background>
   </backgrounds>
   <paths name="paths"/>
+  <fonts name="fonts">
+    <font>fonts\game_over</font>
+  </fonts>
   <objects name="objects">
     <object>objects\Tesla</object>
     <object>objects\Genrate_foe1</object>
@@ -70,7 +75,12 @@
     <object>objects\obj_sansangle</object>
     <object>objects\tesla_static</object>
     <object>objects\portal</object>
+    <object>objects\edison_static</object>
+    <object>objects\intro_text</object>
+    <object>objects\intro_explosion</object>
     <object>objects\intro_controller</object>
+    <object>objects\enemy_steam_ground_static</object>
+    <object>objects\enemy_steam_sky_static</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\intro</room>
