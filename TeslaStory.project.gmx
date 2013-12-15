@@ -48,6 +48,7 @@
     <background>background\labo</background>
     <background>background\title</background>
     <background>background\credits_background</background>
+    <background>background\game_over_background</background>
   </backgrounds>
   <paths name="paths"/>
   <fonts name="fonts">
@@ -99,15 +100,18 @@
     <object>objects\edison</object>
     <object>objects\edison_dead</object>
     <object>objects\credits_controller</object>
+    <object>objects\game_over_controller</object>
   </objects>
+  <timelines name="timelines"/>
   <rooms name="rooms">
-    <room>rooms\room7</room>
     <room>rooms\intro</room>
     <room>rooms\title_room</room>
     <room>rooms\boss_room</room>
     <room>rooms\level1_electricite</room>
     <room>rooms\level1_steam</room>
     <room>rooms\intermediateroom</room>
+    <room>rooms\credits_room</room>
+    <room>rooms\game_over_room</room>
     <room>rooms\room2</room>
   </rooms>
   <constants number="13">
