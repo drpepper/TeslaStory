@@ -167,7 +167,7 @@
         <arguments>
           <argument>
             <kind>11</kind>
-            <room>intermediateroom</room>
+            <room>title_room</room>
           </argument>
         </arguments>
       </action>

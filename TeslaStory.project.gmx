@@ -37,6 +37,9 @@
     <sprite>sprites\spr_feu</sprite>
     <sprite>sprites\spr_generate</sprite>
     <sprite>sprites\spr_edison_idle</sprite>
+    <sprite>sprites\edison_speak</sprite>
+    <sprite>sprites\edison_eyes</sprite>
+    <sprite>sprites\edison_breathe</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\mapsteam</background>
@@ -75,7 +78,7 @@
     <object>objects\obj_sansangle</object>
     <object>objects\tesla_static</object>
     <object>objects\portal</object>
-    <object>objects\edison_static</object>
+    <object>objects\edison</object>
     <object>objects\intro_text</object>
     <object>objects\title_text</object>
     <object>objects\start_text</object>
@@ -86,8 +89,9 @@
     <object>objects\enemy_steam_sky_static</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\boss_room</room>
     <room>rooms\intro</room>
-    <room>rooms\room4</room>
+    <room>rooms\title_room</room>
     <room>rooms\intermediateroom</room>
     <room>rooms\level</room>
     <room>rooms\room2</room>
