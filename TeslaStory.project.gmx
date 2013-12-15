@@ -44,6 +44,8 @@
   </sprites>
   <backgrounds name="background">
     <background>background\mapsteam</background>
+    <background>background\background3</background>
+    <background>background\background4</background>
     <background>background\mapvraisteam</background>
     <background>background\labo</background>
   </backgrounds>
@@ -54,6 +56,7 @@
   <objects name="objects">
     <object>objects\Tesla</object>
     <object>objects\Genrate_foe1</object>
+    <object>objects\Generate_foe2</object>
     <object>objects\enemy_steam</object>
     <object>objects\obj_floor</object>
     <object>objects\gui_courant</object>
@@ -78,7 +81,9 @@
     <object>objects\obj_anglegauche</object>
     <object>objects\obj_anglehaut</object>
     <object>objects\Generateur_elec</object>
+    <object>objects\Generateur_elec2</object>
     <object>objects\Generateur_stam</object>
+    <object>objects\Generateur_stam2</object>
     <object>objects\obj_sansangle</object>
     <object>objects\tesla_static</object>
     <object>objects\portal</object>
@@ -99,12 +104,14 @@
   </objects>
   <rooms name="rooms">
     <room>rooms\level1_electricite</room>
+    <room>rooms\level2_electricite</room>
     <room>rooms\level1_steam</room>
+    <room>rooms\level2_steam</room>
     <room>rooms\boss_room</room>
-    <room>rooms\intro</room>
     <room>rooms\title_room</room>
     <room>rooms\intermediateroom</room>
     <room>rooms\room2</room>
+    <room>rooms\intro</room>
   </rooms>
   <constants number="13">
     <constant name="RECHARGE_TIME">150</constant>
