@@ -40,6 +40,7 @@
     <sprite>sprites\edison_speak</sprite>
     <sprite>sprites\edison_eyes</sprite>
     <sprite>sprites\edison_breathe</sprite>
+    <sprite>sprites\edison_dying</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\mapsteam</background>

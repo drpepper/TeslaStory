@@ -19,7 +19,7 @@
         <exetype>2</exetype>
         <functionname></functionname>
         <codestring></codestring>
-        <whoName>self</whoName>
+        <whoName>edison</whoName>
         <relative>0</relative>
         <isnot>0</isnot>
         <arguments>
@@ -87,7 +87,7 @@
         <exetype>2</exetype>
         <functionname></functionname>
         <codestring></codestring>
-        <whoName>self</whoName>
+        <whoName>edison</whoName>
         <relative>0</relative>
         <isnot>0</isnot>
         <arguments>
@@ -135,7 +135,7 @@
         <exetype>2</exetype>
         <functionname></functionname>
         <codestring></codestring>
-        <whoName>self</whoName>
+        <whoName>edison</whoName>
         <relative>-1</relative>
         <isnot>0</isnot>
         <arguments>
@@ -231,7 +231,7 @@
         <exetype>2</exetype>
         <functionname></functionname>
         <codestring></codestring>
-        <whoName>self</whoName>
+        <whoName>edison</whoName>
         <relative>0</relative>
         <isnot>0</isnot>
         <arguments>
@@ -279,7 +279,7 @@
         <exetype>2</exetype>
         <functionname></functionname>
         <codestring></codestring>
-        <whoName>self</whoName>
+        <whoName>edison</whoName>
         <relative>-1</relative>
         <isnot>0</isnot>
         <arguments>
@@ -375,7 +375,7 @@
         <exetype>2</exetype>
         <functionname></functionname>
         <codestring></codestring>
-        <whoName>self</whoName>
+        <whoName>edison</whoName>
         <relative>0</relative>
         <isnot>0</isnot>
         <arguments>
@@ -423,7 +423,7 @@
         <exetype>2</exetype>
         <functionname></functionname>
         <codestring></codestring>
-        <whoName>self</whoName>
+        <whoName>edison</whoName>
         <relative>-1</relative>
         <isnot>0</isnot>
         <arguments>
@@ -519,7 +519,7 @@
         <exetype>2</exetype>
         <functionname></functionname>
         <codestring></codestring>
-        <whoName>self</whoName>
+        <whoName>edison</whoName>
         <relative>0</relative>
         <isnot>0</isnot>
         <arguments>
@@ -567,7 +567,7 @@
         <exetype>2</exetype>
         <functionname></functionname>
         <codestring></codestring>
-        <whoName>self</whoName>
+        <whoName>edison</whoName>
         <relative>-1</relative>
         <isnot>0</isnot>
         <arguments>
