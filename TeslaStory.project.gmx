@@ -112,7 +112,6 @@
     <object>objects\game_over_controller</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\game_over_room</room>
     <room>rooms\intro</room>
     <room>rooms\level1_electricite</room>
     <room>rooms\level2_electricite</room>
@@ -121,6 +120,7 @@
     <room>rooms\boss_room</room>
     <room>rooms\title_room</room>
     <room>rooms\intermediateroom</room>
+    <room>rooms\game_over_room</room>
     <room>rooms\credits_room</room>
     <room>rooms\room2</room>
   </rooms>
