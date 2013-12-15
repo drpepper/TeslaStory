@@ -77,6 +77,7 @@
     <instance objName="obj_floor" x="512" y="416" name="inst_4CA93C19" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="gui_courant" x="10" y="25" name="inst_7B8F1EEB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="edison" x="0" y="215" name="inst_8B29BECE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="edison_text" x="300" y="115" name="inst_608A1CAB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

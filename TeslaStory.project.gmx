@@ -81,6 +81,7 @@
     <object>objects\edison</object>
     <object>objects\intro_text</object>
     <object>objects\title_text</object>
+    <object>objects\edison_text</object>
     <object>objects\start_text</object>
     <object>objects\intro_explosion</object>
     <object>objects\title_controller</object>
