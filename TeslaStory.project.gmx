@@ -88,6 +88,8 @@
     <object>objects\intro_controller</object>
     <object>objects\enemy_steam_ground_static</object>
     <object>objects\enemy_steam_sky_static</object>
+    <object>objects\edison_zone_eyes</object>
+    <object>objects\edison_zone_mouth</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\boss_room</room>
