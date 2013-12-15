@@ -35,6 +35,7 @@
     <sprite>sprites\anglehaut</sprite>
     <sprite>sprites\sansangle</sprite>
     <sprite>sprites\spr_feu</sprite>
+    <sprite>sprites\spr_generate</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\mapsteam</background>
@@ -52,12 +53,17 @@
     <object>objects\enemy_steam_sky</object>
     <object>objects\enemy_steam_ground</object>
     <object>objects\gui_barr</object>
-    <object>objects\laser</object>
-    <object>objects\steam_cloud</object>
-    <object>objects\str_steam_line</object>
-    <object>objects\spark</object>
+    <object>objects\laser_tesla</object>
+    <object>objects\laser_enemy</object>
+    <object>objects\steam_cloud_tesla</object>
+    <object>objects\steam_cloud_enemy</object>
+    <object>objects\str_steam_line_tesla</object>
+    <object>objects\str_steam_line_enemy</object>
+    <object>objects\spark_tesla</object>
+    <object>objects\spark_enemy</object>
     <object>objects\obj_angledroit</object>
-    <object>objects\warp_steamside</object>
+    <object>objects\warp_left</object>
+    <object>objects\warp_right</object>
     <object>objects\warp_intermediate</object>
     <object>objects\obj_anglegauche</object>
     <object>objects\obj_anglehaut</object>
