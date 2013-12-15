@@ -44,6 +44,7 @@
     <sprite>sprites\edison_eyes</sprite>
     <sprite>sprites\edison_breathe</sprite>
     <sprite>sprites\edison_dying</sprite>
+    <sprite>sprites\spr_pause</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\mapsteam</background>
@@ -110,10 +111,11 @@
     <object>objects\edison_dead</object>
     <object>objects\credits_controller</object>
     <object>objects\game_over_controller</object>
+    <object>objects\pause</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\intro</room>
     <room>rooms\level1_electricite</room>
+    <room>rooms\intro</room>
     <room>rooms\level2_electricite</room>
     <room>rooms\level1_steam</room>
     <room>rooms\level2_steam</room>

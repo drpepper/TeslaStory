@@ -144,6 +144,7 @@
     <instance objName="Generateur_elec" x="864" y="272" name="inst_2523785A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Genrate_foe1" x="1744" y="320" name="inst_6D5BA003" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Generate_foe2" x="1296" y="320" name="inst_E49A4D1B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="pause" x="0" y="0" name="inst_C204BF14" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
