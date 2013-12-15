@@ -36,11 +36,20 @@
     <sprite>sprites\sansangle</sprite>
     <sprite>sprites\spr_feu</sprite>
     <sprite>sprites\spr_generate</sprite>
+    <sprite>sprites\spr_edison_idle</sprite>
+    <sprite>sprites\edison_speak</sprite>
+    <sprite>sprites\edison_eyes</sprite>
+    <sprite>sprites\edison_breathe</sprite>
+    <sprite>sprites\edison_dying</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\mapsteam</background>
+    <background>background\labo</background>
   </backgrounds>
   <paths name="paths"/>
+  <fonts name="fonts">
+    <font>fonts\game_over</font>
+  </fonts>
   <objects name="objects">
     <object>objects\Tesla</object>
     <object>objects\Genrate_foe1</object>
@@ -70,10 +79,25 @@
     <object>objects\obj_sansangle</object>
     <object>objects\tesla_static</object>
     <object>objects\portal</object>
+    <object>objects\intro_text</object>
+    <object>objects\title_text</object>
+    <object>objects\edison_text</object>
+    <object>objects\end_text</object>
+    <object>objects\start_text</object>
+    <object>objects\intro_explosion</object>
+    <object>objects\title_controller</object>
     <object>objects\intro_controller</object>
+    <object>objects\enemy_steam_ground_static</object>
+    <object>objects\enemy_steam_sky_static</object>
+    <object>objects\edison_zone_eyes</object>
+    <object>objects\edison_zone_mouth</object>
+    <object>objects\edison</object>
+    <object>objects\edison_dead</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\boss_room</room>
     <room>rooms\intro</room>
+    <room>rooms\title_room</room>
     <room>rooms\intermediateroom</room>
     <room>rooms\level</room>
     <room>rooms\room2</room>
