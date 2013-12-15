@@ -53,7 +53,7 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>60</string>
+            <string>150</string>
           </argument>
           <argument>
             <kind>4</kind>
@@ -82,6 +82,26 @@
           <argument>
             <kind>0</kind>
             <string>c_red</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>721</id>
+        <kind>0</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>0</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_set_health</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>0</kind>
+            <string>100</string>
           </argument>
         </arguments>
       </action>
@@ -139,7 +159,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>360</string>
+            <string>350</string>
           </argument>
         </arguments>
       </action>
@@ -165,7 +185,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>-1/60</string>
+            <string>-1/150</string>
           </argument>
         </arguments>
       </action>
