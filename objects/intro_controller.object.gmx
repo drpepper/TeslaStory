@@ -221,7 +221,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>3</string>
+            <string>4</string>
           </argument>
         </arguments>
       </action>
@@ -273,7 +273,35 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>256</string>
+            <string>350</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>541</id>
+        <kind>0</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_sprite_set</functionname>
+        <codestring></codestring>
+        <whoName>tesla_static</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>5</kind>
+            <sprite>tesla_run</sprite>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>0</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>0.4</string>
           </argument>
         </arguments>
       </action>
