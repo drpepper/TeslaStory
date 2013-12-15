@@ -77,13 +77,17 @@
     <object>objects\portal</object>
     <object>objects\edison_static</object>
     <object>objects\intro_text</object>
+    <object>objects\title_text</object>
+    <object>objects\start_text</object>
     <object>objects\intro_explosion</object>
+    <object>objects\title_controller</object>
     <object>objects\intro_controller</object>
     <object>objects\enemy_steam_ground_static</object>
     <object>objects\enemy_steam_sky_static</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\intro</room>
+    <room>rooms\room4</room>
     <room>rooms\intermediateroom</room>
     <room>rooms\level</room>
     <room>rooms\room2</room>
