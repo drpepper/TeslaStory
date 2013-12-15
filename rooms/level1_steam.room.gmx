@@ -171,7 +171,7 @@
     <instance objName="obj_floor" x="1728" y="320" name="inst_2E7C6BEF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_floor" x="1760" y="320" name="inst_B72F9B2D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_floor" x="1728" y="352" name="inst_3E02A3CB" locked="0" code="" scaleX="6.5" scaleY="4" colour="4294967295" rotation="0"/>
-    <instance objName="obj_feu" x="848" y="224" name="inst_4BB3B98D" locked="0" code="" scaleX="1.60000002384186" scaleY="1.63999998569489" colour="4294967295" rotation="0"/>
+    <instance objName="obj_feu" x="832" y="240" name="inst_4BB3B98D" locked="0" code="" scaleX="2.5" scaleY="2.5238094329834" colour="4294967295" rotation="0"/>
     <instance objName="Generateur_stam" x="1120" y="352" name="inst_D4752324" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Generateur_stam" x="1120" y="320" name="inst_C1958670" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Generateur_stam" x="1120" y="288" name="inst_37DA2DD8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
