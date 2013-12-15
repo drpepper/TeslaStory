@@ -114,8 +114,8 @@
     <object>objects\pause</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\level1_electricite</room>
     <room>rooms\intro</room>
+    <room>rooms\level1_electricite</room>
     <room>rooms\level2_electricite</room>
     <room>rooms\level1_steam</room>
     <room>rooms\level2_steam</room>
